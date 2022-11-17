@@ -29,3 +29,5 @@ gerbers/
 bak/
 *-bak
 *.pdf
+plots/
+keyboard-backups/
