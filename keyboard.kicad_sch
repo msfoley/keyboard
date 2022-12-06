@@ -2879,316 +2879,316 @@
       (reference "JP407") (unit 1) (value "SolderJumper_2_Open") (footprint "Jumper:SolderJumper-2_P1.3mm_Open_Pad1.0x1.5mm")
     )
     (path "/31bb8932-832f-42ce-a5dc-7daa763a98f8/a622e1d1-d9cf-4694-8dd4-655c72988216"
-      (reference "K_0") (unit 1) (value "Esc") (footprint "Keyboard:MXOnly-1U-Hotswap")
+      (reference "SW2000") (unit 1) (value "Esc") (footprint "Keyboard:MXOnly-1U-Hotswap")
     )
     (path "/31bb8932-832f-42ce-a5dc-7daa763a98f8/7c692ad8-938a-40fe-b54e-c38ac7c2077a"
-      (reference "K_1") (unit 1) (value "F1") (footprint "Keyboard:MXOnly-1U-Hotswap")
+      (reference "SW2001") (unit 1) (value "F1") (footprint "Keyboard:MXOnly-1U-Hotswap")
     )
     (path "/31bb8932-832f-42ce-a5dc-7daa763a98f8/a8428fdb-481f-466d-834b-4ade9d445ade"
-      (reference "K_2") (unit 1) (value "F2") (footprint "Keyboard:MXOnly-1U-Hotswap")
+      (reference "SW2002") (unit 1) (value "F2") (footprint "Keyboard:MXOnly-1U-Hotswap")
     )
     (path "/31bb8932-832f-42ce-a5dc-7daa763a98f8/9ddef578-631a-4f51-891d-0304bab78d42"
-      (reference "K_3") (unit 1) (value "F3") (footprint "Keyboard:MXOnly-1U-Hotswap")
+      (reference "SW2003") (unit 1) (value "F3") (footprint "Keyboard:MXOnly-1U-Hotswap")
     )
     (path "/31bb8932-832f-42ce-a5dc-7daa763a98f8/907e2a4e-713e-465a-8e21-dabbb4fb7d6f"
-      (reference "K_4") (unit 1) (value "F4") (footprint "Keyboard:MXOnly-1U-Hotswap")
+      (reference "SW2004") (unit 1) (value "F4") (footprint "Keyboard:MXOnly-1U-Hotswap")
     )
     (path "/31bb8932-832f-42ce-a5dc-7daa763a98f8/3ca8213a-80a2-495a-ab38-7a1e5a58ecfc"
-      (reference "K_5") (unit 1) (value "F5") (footprint "Keyboard:MXOnly-1U-Hotswap")
+      (reference "SW2005") (unit 1) (value "F5") (footprint "Keyboard:MXOnly-1U-Hotswap")
     )
     (path "/31bb8932-832f-42ce-a5dc-7daa763a98f8/b19588ef-dabd-4c07-b7da-6172e7782406"
-      (reference "K_6") (unit 1) (value "F6") (footprint "Keyboard:MXOnly-1U-Hotswap")
+      (reference "SW2006") (unit 1) (value "F6") (footprint "Keyboard:MXOnly-1U-Hotswap")
     )
     (path "/31bb8932-832f-42ce-a5dc-7daa763a98f8/8381dec3-205a-4d3d-86cd-5bae4e65006e"
-      (reference "K_7") (unit 1) (value "F7") (footprint "Keyboard:MXOnly-1U-Hotswap")
+      (reference "SW2007") (unit 1) (value "F7") (footprint "Keyboard:MXOnly-1U-Hotswap")
     )
     (path "/31bb8932-832f-42ce-a5dc-7daa763a98f8/b5140f85-dd1d-44b6-89c7-b801f525d9d7"
-      (reference "K_8") (unit 1) (value "F8") (footprint "Keyboard:MXOnly-1U-Hotswap")
+      (reference "SW2008") (unit 1) (value "F8") (footprint "Keyboard:MXOnly-1U-Hotswap")
     )
     (path "/31bb8932-832f-42ce-a5dc-7daa763a98f8/a397688e-d44c-4fa6-bed6-f63086e9cac8"
-      (reference "K_9") (unit 1) (value "F9") (footprint "Keyboard:MXOnly-1U-Hotswap")
+      (reference "SW2009") (unit 1) (value "F9") (footprint "Keyboard:MXOnly-1U-Hotswap")
     )
     (path "/31bb8932-832f-42ce-a5dc-7daa763a98f8/f361baa1-4aaa-4c14-8bc5-049411377022"
-      (reference "K_10") (unit 1) (value "F10") (footprint "Keyboard:MXOnly-1U-Hotswap")
+      (reference "SW2010") (unit 1) (value "F10") (footprint "Keyboard:MXOnly-1U-Hotswap")
     )
     (path "/31bb8932-832f-42ce-a5dc-7daa763a98f8/61b73e42-089b-466c-b5a4-4993e06f4ca2"
-      (reference "K_11") (unit 1) (value "F11") (footprint "Keyboard:MXOnly-1U-Hotswap")
+      (reference "SW2011") (unit 1) (value "F11") (footprint "Keyboard:MXOnly-1U-Hotswap")
     )
     (path "/31bb8932-832f-42ce-a5dc-7daa763a98f8/bd8ef42a-3709-4bf7-baf1-7558d9f825eb"
-      (reference "K_12") (unit 1) (value "F12") (footprint "Keyboard:MXOnly-1U-Hotswap")
+      (reference "SW2012") (unit 1) (value "F12") (footprint "Keyboard:MXOnly-1U-Hotswap")
     )
     (path "/31bb8932-832f-42ce-a5dc-7daa763a98f8/f73fd5b6-42f1-4a8e-9429-1cd71765ee98"
-      (reference "K_13") (unit 1) (value "PrtSc") (footprint "Keyboard:MXOnly-1U-Hotswap")
+      (reference "SW2013") (unit 1) (value "PrtSc") (footprint "Keyboard:MXOnly-1U-Hotswap")
     )
     (path "/31bb8932-832f-42ce-a5dc-7daa763a98f8/da70fcb6-a779-4779-9c36-ab8a526cad0d"
-      (reference "K_14") (unit 1) (value "ScrLk") (footprint "Keyboard:MXOnly-1U-Hotswap")
+      (reference "SW2014") (unit 1) (value "ScrLk") (footprint "Keyboard:MXOnly-1U-Hotswap")
     )
     (path "/31bb8932-832f-42ce-a5dc-7daa763a98f8/9d362f75-b36f-410d-9177-3f1607371b0e"
-      (reference "K_15") (unit 1) (value "Pause") (footprint "Keyboard:MXOnly-1U-Hotswap")
+      (reference "SW2015") (unit 1) (value "Pause") (footprint "Keyboard:MXOnly-1U-Hotswap")
     )
     (path "/31bb8932-832f-42ce-a5dc-7daa763a98f8/6ff1bd6e-cf8c-469c-8853-d9cd88a7348d"
-      (reference "K_16") (unit 1) (value "~") (footprint "Keyboard:MXOnly-1U-Hotswap")
+      (reference "SW2016") (unit 1) (value "~") (footprint "Keyboard:MXOnly-1U-Hotswap")
     )
     (path "/31bb8932-832f-42ce-a5dc-7daa763a98f8/7d9b4638-e9bb-45ef-a51b-2bc034c8f45e"
-      (reference "K_17") (unit 1) (value "1") (footprint "Keyboard:MXOnly-1U-Hotswap")
+      (reference "SW2017") (unit 1) (value "1") (footprint "Keyboard:MXOnly-1U-Hotswap")
     )
     (path "/31bb8932-832f-42ce-a5dc-7daa763a98f8/53ba1a43-be54-4a1f-a038-f9fe5cc882b3"
-      (reference "K_18") (unit 1) (value "2") (footprint "Keyboard:MXOnly-1U-Hotswap")
+      (reference "SW2018") (unit 1) (value "2") (footprint "Keyboard:MXOnly-1U-Hotswap")
     )
     (path "/31bb8932-832f-42ce-a5dc-7daa763a98f8/127df590-dcac-41aa-b986-8247655ed564"
-      (reference "K_19") (unit 1) (value "3") (footprint "Keyboard:MXOnly-1U-Hotswap")
+      (reference "SW2019") (unit 1) (value "3") (footprint "Keyboard:MXOnly-1U-Hotswap")
     )
     (path "/31bb8932-832f-42ce-a5dc-7daa763a98f8/83a66bd8-8d5b-4a10-aa01-ed9e880b11a4"
-      (reference "K_20") (unit 1) (value "4") (footprint "Keyboard:MXOnly-1U-Hotswap")
+      (reference "SW2020") (unit 1) (value "4") (footprint "Keyboard:MXOnly-1U-Hotswap")
     )
     (path "/31bb8932-832f-42ce-a5dc-7daa763a98f8/301658da-902a-4699-a12f-22139a8d1d15"
-      (reference "K_21") (unit 1) (value "5") (footprint "Keyboard:MXOnly-1U-Hotswap")
+      (reference "SW2021") (unit 1) (value "5") (footprint "Keyboard:MXOnly-1U-Hotswap")
     )
     (path "/31bb8932-832f-42ce-a5dc-7daa763a98f8/ed3f7447-c343-4e88-8980-62e751d57fc4"
-      (reference "K_22") (unit 1) (value "6") (footprint "Keyboard:MXOnly-1U-Hotswap")
+      (reference "SW2022") (unit 1) (value "6") (footprint "Keyboard:MXOnly-1U-Hotswap")
     )
     (path "/31bb8932-832f-42ce-a5dc-7daa763a98f8/bdde6734-0ac0-40c8-b107-86d36ae755e8"
-      (reference "K_23") (unit 1) (value "7") (footprint "Keyboard:MXOnly-1U-Hotswap")
+      (reference "SW2023") (unit 1) (value "7") (footprint "Keyboard:MXOnly-1U-Hotswap")
     )
     (path "/31bb8932-832f-42ce-a5dc-7daa763a98f8/81292e58-1a38-467b-aada-e1baff29664e"
-      (reference "K_24") (unit 1) (value "8") (footprint "Keyboard:MXOnly-1U-Hotswap")
+      (reference "SW2024") (unit 1) (value "8") (footprint "Keyboard:MXOnly-1U-Hotswap")
     )
     (path "/31bb8932-832f-42ce-a5dc-7daa763a98f8/b2cc6ab9-80af-4ade-a0d0-9fe5e28401f8"
-      (reference "K_25") (unit 1) (value "9") (footprint "Keyboard:MXOnly-1U-Hotswap")
+      (reference "SW2025") (unit 1) (value "9") (footprint "Keyboard:MXOnly-1U-Hotswap")
     )
     (path "/31bb8932-832f-42ce-a5dc-7daa763a98f8/01c6aecb-f845-47ac-8e03-2dd172a60d20"
-      (reference "K_26") (unit 1) (value "0") (footprint "Keyboard:MXOnly-1U-Hotswap")
+      (reference "SW2026") (unit 1) (value "0") (footprint "Keyboard:MXOnly-1U-Hotswap")
     )
     (path "/31bb8932-832f-42ce-a5dc-7daa763a98f8/7d6c0532-5019-44fe-864b-5eb8ddbdf160"
-      (reference "K_27") (unit 1) (value "-") (footprint "Keyboard:MXOnly-1U-Hotswap")
+      (reference "SW2027") (unit 1) (value "-") (footprint "Keyboard:MXOnly-1U-Hotswap")
     )
     (path "/31bb8932-832f-42ce-a5dc-7daa763a98f8/cad95d79-d256-4461-9f25-bdc836784b66"
-      (reference "K_28") (unit 1) (value "=") (footprint "Keyboard:MXOnly-1U-Hotswap")
+      (reference "SW2028") (unit 1) (value "=") (footprint "Keyboard:MXOnly-1U-Hotswap")
     )
     (path "/31bb8932-832f-42ce-a5dc-7daa763a98f8/13161716-d00a-400f-8d0b-ffac73332701"
-      (reference "K_29") (unit 1) (value "Bksp") (footprint "Keyboard:MXOnly-2U-Hotswap")
+      (reference "SW2029") (unit 1) (value "Bksp") (footprint "Keyboard:MXOnly-2U-Hotswap")
     )
     (path "/31bb8932-832f-42ce-a5dc-7daa763a98f8/2fc6dab2-5454-4644-a36b-96bcd369c80f"
-      (reference "K_30") (unit 1) (value "Ins") (footprint "Keyboard:MXOnly-1U-Hotswap")
+      (reference "SW2030") (unit 1) (value "Ins") (footprint "Keyboard:MXOnly-1U-Hotswap")
     )
     (path "/31bb8932-832f-42ce-a5dc-7daa763a98f8/14cae1f2-cfaa-4fdd-8838-56f64541a841"
-      (reference "K_31") (unit 1) (value "Home") (footprint "Keyboard:MXOnly-1U-Hotswap")
+      (reference "SW2031") (unit 1) (value "Home") (footprint "Keyboard:MXOnly-1U-Hotswap")
     )
     (path "/31bb8932-832f-42ce-a5dc-7daa763a98f8/18d97de5-fdb1-49a4-a2af-8dc46febb5ce"
-      (reference "K_32") (unit 1) (value "PgUp") (footprint "Keyboard:MXOnly-1U-Hotswap")
+      (reference "SW2032") (unit 1) (value "PgUp") (footprint "Keyboard:MXOnly-1U-Hotswap")
     )
     (path "/31bb8932-832f-42ce-a5dc-7daa763a98f8/96e5b6b6-30d1-4f7a-b163-3bbc96b6c762"
-      (reference "K_33") (unit 1) (value "NumLk") (footprint "Keyboard:MXOnly-1U-Hotswap")
+      (reference "SW2033") (unit 1) (value "NumLk") (footprint "Keyboard:MXOnly-1U-Hotswap")
     )
     (path "/31bb8932-832f-42ce-a5dc-7daa763a98f8/a9e3d170-66db-420e-b413-167758bc394d"
-      (reference "K_34") (unit 1) (value "/") (footprint "Keyboard:MXOnly-1U-Hotswap")
+      (reference "SW2034") (unit 1) (value "/") (footprint "Keyboard:MXOnly-1U-Hotswap")
     )
     (path "/31bb8932-832f-42ce-a5dc-7daa763a98f8/5565ad7b-fa60-404c-b885-7690304897f7"
-      (reference "K_35") (unit 1) (value "*") (footprint "Keyboard:MXOnly-1U-Hotswap")
+      (reference "SW2035") (unit 1) (value "*") (footprint "Keyboard:MXOnly-1U-Hotswap")
     )
     (path "/31bb8932-832f-42ce-a5dc-7daa763a98f8/19a6030d-895f-41cb-95f0-daa83ea944a7"
-      (reference "K_36") (unit 1) (value "-") (footprint "Keyboard:MXOnly-1U-Hotswap")
+      (reference "SW2036") (unit 1) (value "-") (footprint "Keyboard:MXOnly-1U-Hotswap")
     )
     (path "/31bb8932-832f-42ce-a5dc-7daa763a98f8/30b6ac1f-90cc-4497-a1e9-1c0b0959a22d"
-      (reference "K_37") (unit 1) (value "Tab") (footprint "Keyboard:MXOnly-1.5U-Hotswap")
+      (reference "SW2037") (unit 1) (value "Tab") (footprint "Keyboard:MXOnly-1.5U-Hotswap")
     )
     (path "/31bb8932-832f-42ce-a5dc-7daa763a98f8/5895215b-f09c-41c5-a63c-663d20f9cb59"
-      (reference "K_38") (unit 1) (value "Q") (footprint "Keyboard:MXOnly-1U-Hotswap")
+      (reference "SW2038") (unit 1) (value "Q") (footprint "Keyboard:MXOnly-1U-Hotswap")
     )
     (path "/31bb8932-832f-42ce-a5dc-7daa763a98f8/8877e1ab-4b6f-4395-a7ba-de6eb1d5ea18"
-      (reference "K_39") (unit 1) (value "W") (footprint "Keyboard:MXOnly-1U-Hotswap")
+      (reference "SW2039") (unit 1) (value "W") (footprint "Keyboard:MXOnly-1U-Hotswap")
     )
     (path "/31bb8932-832f-42ce-a5dc-7daa763a98f8/627eee6f-ab66-47f5-ae3c-e516ed92fa63"
-      (reference "K_40") (unit 1) (value "E") (footprint "Keyboard:MXOnly-1U-Hotswap")
+      (reference "SW2040") (unit 1) (value "E") (footprint "Keyboard:MXOnly-1U-Hotswap")
     )
     (path "/31bb8932-832f-42ce-a5dc-7daa763a98f8/ff3b51e7-4c8c-4b96-94d4-369482c9cb4a"
-      (reference "K_41") (unit 1) (value "R") (footprint "Keyboard:MXOnly-1U-Hotswap")
+      (reference "SW2041") (unit 1) (value "R") (footprint "Keyboard:MXOnly-1U-Hotswap")
     )
     (path "/31bb8932-832f-42ce-a5dc-7daa763a98f8/f51cb631-7332-4cc8-9c0b-9a8b3711167c"
-      (reference "K_42") (unit 1) (value "T") (footprint "Keyboard:MXOnly-1U-Hotswap")
+      (reference "SW2042") (unit 1) (value "T") (footprint "Keyboard:MXOnly-1U-Hotswap")
     )
     (path "/31bb8932-832f-42ce-a5dc-7daa763a98f8/39ce0c19-c564-4be4-a15d-e7d2836ca405"
-      (reference "K_43") (unit 1) (value "Y") (footprint "Keyboard:MXOnly-1U-Hotswap")
+      (reference "SW2043") (unit 1) (value "Y") (footprint "Keyboard:MXOnly-1U-Hotswap")
     )
     (path "/31bb8932-832f-42ce-a5dc-7daa763a98f8/5ac3e6c9-8e81-4748-a7e8-a2583ed4a215"
-      (reference "K_44") (unit 1) (value "U") (footprint "Keyboard:MXOnly-1U-Hotswap")
+      (reference "SW2044") (unit 1) (value "U") (footprint "Keyboard:MXOnly-1U-Hotswap")
     )
     (path "/31bb8932-832f-42ce-a5dc-7daa763a98f8/216505ab-ea61-4185-bdfb-3ec61241d9ec"
-      (reference "K_45") (unit 1) (value "I") (footprint "Keyboard:MXOnly-1U-Hotswap")
+      (reference "SW2045") (unit 1) (value "I") (footprint "Keyboard:MXOnly-1U-Hotswap")
     )
     (path "/31bb8932-832f-42ce-a5dc-7daa763a98f8/f30ee2c8-10b9-48e6-8993-40c6d74d7c80"
-      (reference "K_46") (unit 1) (value "O") (footprint "Keyboard:MXOnly-1U-Hotswap")
+      (reference "SW2046") (unit 1) (value "O") (footprint "Keyboard:MXOnly-1U-Hotswap")
     )
     (path "/31bb8932-832f-42ce-a5dc-7daa763a98f8/aaa22497-88f6-4c34-9249-58c8c3a7995f"
-      (reference "K_47") (unit 1) (value "P") (footprint "Keyboard:MXOnly-1U-Hotswap")
+      (reference "SW2047") (unit 1) (value "P") (footprint "Keyboard:MXOnly-1U-Hotswap")
     )
     (path "/31bb8932-832f-42ce-a5dc-7daa763a98f8/bc9b294f-8f5e-4757-9994-3bde8c5480f0"
-      (reference "K_48") (unit 1) (value "[") (footprint "Keyboard:MXOnly-1U-Hotswap")
+      (reference "SW2048") (unit 1) (value "[") (footprint "Keyboard:MXOnly-1U-Hotswap")
     )
     (path "/31bb8932-832f-42ce-a5dc-7daa763a98f8/e5178bd8-5df9-4bed-a05c-17e4f2fa7913"
-      (reference "K_49") (unit 1) (value "]") (footprint "Keyboard:MXOnly-1U-Hotswap")
+      (reference "SW2049") (unit 1) (value "]") (footprint "Keyboard:MXOnly-1U-Hotswap")
     )
     (path "/31bb8932-832f-42ce-a5dc-7daa763a98f8/d9fc4cfe-40af-4048-bf24-af72fb3ca84d"
-      (reference "K_50") (unit 1) (value "\\") (footprint "Keyboard:MXOnly-1.5U-Hotswap")
+      (reference "SW2050") (unit 1) (value "\\") (footprint "Keyboard:MXOnly-1.5U-Hotswap")
     )
     (path "/31bb8932-832f-42ce-a5dc-7daa763a98f8/26ec0d97-8b66-452a-b101-3a827fb72ec6"
-      (reference "K_51") (unit 1) (value "Del") (footprint "Keyboard:MXOnly-1U-Hotswap")
+      (reference "SW2051") (unit 1) (value "Del") (footprint "Keyboard:MXOnly-1U-Hotswap")
     )
     (path "/31bb8932-832f-42ce-a5dc-7daa763a98f8/a8d0b4e1-97c7-4cea-9286-2e7dfe11e12b"
-      (reference "K_52") (unit 1) (value "End") (footprint "Keyboard:MXOnly-1U-Hotswap")
+      (reference "SW2052") (unit 1) (value "End") (footprint "Keyboard:MXOnly-1U-Hotswap")
     )
     (path "/31bb8932-832f-42ce-a5dc-7daa763a98f8/fa96f498-6818-4e3d-bc9c-ea4b5f40005b"
-      (reference "K_53") (unit 1) (value "PgDn") (footprint "Keyboard:MXOnly-1U-Hotswap")
+      (reference "SW2053") (unit 1) (value "PgDn") (footprint "Keyboard:MXOnly-1U-Hotswap")
     )
     (path "/31bb8932-832f-42ce-a5dc-7daa763a98f8/3596b796-9ab1-468f-8f7d-2bcd0b9b24dd"
-      (reference "K_54") (unit 1) (value "7") (footprint "Keyboard:MXOnly-1U-Hotswap")
+      (reference "SW2054") (unit 1) (value "7") (footprint "Keyboard:MXOnly-1U-Hotswap")
     )
     (path "/31bb8932-832f-42ce-a5dc-7daa763a98f8/29e773b2-6c9c-4af5-8cf6-5a5adb0f9e60"
-      (reference "K_55") (unit 1) (value "8") (footprint "Keyboard:MXOnly-1U-Hotswap")
+      (reference "SW2055") (unit 1) (value "8") (footprint "Keyboard:MXOnly-1U-Hotswap")
     )
     (path "/31bb8932-832f-42ce-a5dc-7daa763a98f8/54c544c3-1d8b-4456-88a2-63c6aef53c0e"
-      (reference "K_56") (unit 1) (value "9") (footprint "Keyboard:MXOnly-1U-Hotswap")
+      (reference "SW2056") (unit 1) (value "9") (footprint "Keyboard:MXOnly-1U-Hotswap")
     )
     (path "/31bb8932-832f-42ce-a5dc-7daa763a98f8/72e91d15-9a30-4fe2-a61c-b1299357312a"
-      (reference "K_57") (unit 1) (value "+") (footprint "Keyboard:MXOnly-2U-Hotswap")
+      (reference "SW2057") (unit 1) (value "+") (footprint "Keyboard:MXOnly-2U-Hotswap")
     )
     (path "/31bb8932-832f-42ce-a5dc-7daa763a98f8/04e2a1b1-ea8f-46d5-b84d-468a25ef2052"
-      (reference "K_58") (unit 1) (value "Caps Lock") (footprint "Keyboard:MXOnly-1.75U-Hotswap")
+      (reference "SW2058") (unit 1) (value "Caps Lock") (footprint "Keyboard:MXOnly-1.75U-Hotswap")
     )
     (path "/31bb8932-832f-42ce-a5dc-7daa763a98f8/452ebec3-31a8-4cd5-b9d1-59803764238c"
-      (reference "K_59") (unit 1) (value "A") (footprint "Keyboard:MXOnly-1U-Hotswap")
+      (reference "SW2059") (unit 1) (value "A") (footprint "Keyboard:MXOnly-1U-Hotswap")
     )
     (path "/31bb8932-832f-42ce-a5dc-7daa763a98f8/a5ed3005-9099-4c30-9b81-60339a2cda8b"
-      (reference "K_60") (unit 1) (value "S") (footprint "Keyboard:MXOnly-1U-Hotswap")
+      (reference "SW2060") (unit 1) (value "S") (footprint "Keyboard:MXOnly-1U-Hotswap")
     )
     (path "/31bb8932-832f-42ce-a5dc-7daa763a98f8/b6aa2095-a479-4e39-98cd-19366e29006a"
-      (reference "K_61") (unit 1) (value "D") (footprint "Keyboard:MXOnly-1U-Hotswap")
+      (reference "SW2061") (unit 1) (value "D") (footprint "Keyboard:MXOnly-1U-Hotswap")
     )
     (path "/31bb8932-832f-42ce-a5dc-7daa763a98f8/416904ef-aa3d-44f5-88e6-7059fefda806"
-      (reference "K_62") (unit 1) (value "F") (footprint "Keyboard:MXOnly-1U-Hotswap")
+      (reference "SW2062") (unit 1) (value "F") (footprint "Keyboard:MXOnly-1U-Hotswap")
     )
     (path "/31bb8932-832f-42ce-a5dc-7daa763a98f8/0a9e9010-3317-4648-97b0-7d9b27a33981"
-      (reference "K_63") (unit 1) (value "G") (footprint "Keyboard:MXOnly-1U-Hotswap")
+      (reference "SW2063") (unit 1) (value "G") (footprint "Keyboard:MXOnly-1U-Hotswap")
     )
     (path "/31bb8932-832f-42ce-a5dc-7daa763a98f8/ebf200fa-3531-4dee-9715-5e2d2f562413"
-      (reference "K_64") (unit 1) (value "H") (footprint "Keyboard:MXOnly-1U-Hotswap")
+      (reference "SW2064") (unit 1) (value "H") (footprint "Keyboard:MXOnly-1U-Hotswap")
     )
     (path "/31bb8932-832f-42ce-a5dc-7daa763a98f8/129c0389-4905-4307-a0b6-dd27238e5bbc"
-      (reference "K_65") (unit 1) (value "J") (footprint "Keyboard:MXOnly-1U-Hotswap")
+      (reference "SW2065") (unit 1) (value "J") (footprint "Keyboard:MXOnly-1U-Hotswap")
     )
     (path "/31bb8932-832f-42ce-a5dc-7daa763a98f8/2c37a111-ba21-4d86-9eaa-7a6f85a63912"
-      (reference "K_66") (unit 1) (value "K") (footprint "Keyboard:MXOnly-1U-Hotswap")
+      (reference "SW2066") (unit 1) (value "K") (footprint "Keyboard:MXOnly-1U-Hotswap")
     )
     (path "/31bb8932-832f-42ce-a5dc-7daa763a98f8/04590347-efe8-440e-aa45-6a1af72e04a5"
-      (reference "K_67") (unit 1) (value "L") (footprint "Keyboard:MXOnly-1U-Hotswap")
+      (reference "SW2067") (unit 1) (value "L") (footprint "Keyboard:MXOnly-1U-Hotswap")
     )
     (path "/31bb8932-832f-42ce-a5dc-7daa763a98f8/9cc5d316-e7f6-4193-a38d-a0ce95d83d90"
-      (reference "K_68") (unit 1) (value ";") (footprint "Keyboard:MXOnly-1U-Hotswap")
+      (reference "SW2068") (unit 1) (value ";") (footprint "Keyboard:MXOnly-1U-Hotswap")
     )
     (path "/31bb8932-832f-42ce-a5dc-7daa763a98f8/2dbadd47-f95c-4f96-900e-25e1356027ff"
-      (reference "K_69") (unit 1) (value "'") (footprint "Keyboard:MXOnly-1U-Hotswap")
+      (reference "SW2069") (unit 1) (value "'") (footprint "Keyboard:MXOnly-1U-Hotswap")
     )
     (path "/31bb8932-832f-42ce-a5dc-7daa763a98f8/0feacd0a-6238-4230-b66e-f372f0d02162"
-      (reference "K_70") (unit 1) (value "Enter") (footprint "Keyboard:MXOnly-2.25U-Hotswap")
+      (reference "SW2070") (unit 1) (value "Enter") (footprint "Keyboard:MXOnly-2.25U-Hotswap")
     )
     (path "/31bb8932-832f-42ce-a5dc-7daa763a98f8/b4069dcb-4414-4145-ae6b-13d5ec45f794"
-      (reference "K_71") (unit 1) (value "4") (footprint "Keyboard:MXOnly-1U-Hotswap")
+      (reference "SW2071") (unit 1) (value "4") (footprint "Keyboard:MXOnly-1U-Hotswap")
     )
     (path "/31bb8932-832f-42ce-a5dc-7daa763a98f8/567589cb-78d1-4f1d-8ad4-46ab54059a9c"
-      (reference "K_72") (unit 1) (value "5") (footprint "Keyboard:MXOnly-1U-Hotswap")
+      (reference "SW2072") (unit 1) (value "5") (footprint "Keyboard:MXOnly-1U-Hotswap")
     )
     (path "/31bb8932-832f-42ce-a5dc-7daa763a98f8/06d5c33d-74dc-45fa-814d-c87636f4a8d8"
-      (reference "K_73") (unit 1) (value "6") (footprint "Keyboard:MXOnly-1U-Hotswap")
+      (reference "SW2073") (unit 1) (value "6") (footprint "Keyboard:MXOnly-1U-Hotswap")
     )
     (path "/31bb8932-832f-42ce-a5dc-7daa763a98f8/21b80e66-fbfb-4bbc-92eb-b688e9635d0e"
-      (reference "K_74") (unit 1) (value "Shift") (footprint "Keyboard:MXOnly-2.25U-Hotswap")
+      (reference "SW2074") (unit 1) (value "Shift") (footprint "Keyboard:MXOnly-2.25U-Hotswap")
     )
     (path "/31bb8932-832f-42ce-a5dc-7daa763a98f8/e884fc86-aabf-4d21-8b6e-64c16216558d"
-      (reference "K_75") (unit 1) (value "Z") (footprint "Keyboard:MXOnly-1U-Hotswap")
+      (reference "SW2075") (unit 1) (value "Z") (footprint "Keyboard:MXOnly-1U-Hotswap")
     )
     (path "/31bb8932-832f-42ce-a5dc-7daa763a98f8/ce7ae740-da69-41ef-b728-ea852fb1fd3f"
-      (reference "K_76") (unit 1) (value "X") (footprint "Keyboard:MXOnly-1U-Hotswap")
+      (reference "SW2076") (unit 1) (value "X") (footprint "Keyboard:MXOnly-1U-Hotswap")
     )
     (path "/31bb8932-832f-42ce-a5dc-7daa763a98f8/251f9405-25f5-40b1-95c1-c030845c3f3d"
-      (reference "K_77") (unit 1) (value "C") (footprint "Keyboard:MXOnly-1U-Hotswap")
+      (reference "SW2077") (unit 1) (value "C") (footprint "Keyboard:MXOnly-1U-Hotswap")
     )
     (path "/31bb8932-832f-42ce-a5dc-7daa763a98f8/463d619c-974d-406b-950d-22dff7d97e42"
-      (reference "K_78") (unit 1) (value "V") (footprint "Keyboard:MXOnly-1U-Hotswap")
+      (reference "SW2078") (unit 1) (value "V") (footprint "Keyboard:MXOnly-1U-Hotswap")
     )
     (path "/31bb8932-832f-42ce-a5dc-7daa763a98f8/cd07fc40-385e-447e-aedf-8d1f73c16965"
-      (reference "K_79") (unit 1) (value "B") (footprint "Keyboard:MXOnly-1U-Hotswap")
+      (reference "SW2079") (unit 1) (value "B") (footprint "Keyboard:MXOnly-1U-Hotswap")
     )
     (path "/31bb8932-832f-42ce-a5dc-7daa763a98f8/497d8e93-7235-41da-9eff-4f52ee4e2909"
-      (reference "K_80") (unit 1) (value "N") (footprint "Keyboard:MXOnly-1U-Hotswap")
+      (reference "SW2080") (unit 1) (value "N") (footprint "Keyboard:MXOnly-1U-Hotswap")
     )
     (path "/31bb8932-832f-42ce-a5dc-7daa763a98f8/74317d44-b8bd-40c4-b3ea-922fbb615717"
-      (reference "K_81") (unit 1) (value "M") (footprint "Keyboard:MXOnly-1U-Hotswap")
+      (reference "SW2081") (unit 1) (value "M") (footprint "Keyboard:MXOnly-1U-Hotswap")
     )
     (path "/31bb8932-832f-42ce-a5dc-7daa763a98f8/61939828-d0bd-4f8c-b07b-645875610dc9"
-      (reference "K_82") (unit 1) (value ",") (footprint "Keyboard:MXOnly-1U-Hotswap")
+      (reference "SW2082") (unit 1) (value ",") (footprint "Keyboard:MXOnly-1U-Hotswap")
     )
     (path "/31bb8932-832f-42ce-a5dc-7daa763a98f8/260330ae-9302-493f-8026-f72b4d69aa0d"
-      (reference "K_83") (unit 1) (value ".") (footprint "Keyboard:MXOnly-1U-Hotswap")
+      (reference "SW2083") (unit 1) (value ".") (footprint "Keyboard:MXOnly-1U-Hotswap")
     )
     (path "/31bb8932-832f-42ce-a5dc-7daa763a98f8/633a91cf-d11b-41eb-824e-082f3fc3ee3e"
-      (reference "K_84") (unit 1) (value "/") (footprint "Keyboard:MXOnly-1U-Hotswap")
+      (reference "SW2084") (unit 1) (value "/") (footprint "Keyboard:MXOnly-1U-Hotswap")
     )
     (path "/31bb8932-832f-42ce-a5dc-7daa763a98f8/9d45c6bf-6c1e-440d-8061-ad19b1d526b5"
-      (reference "K_85") (unit 1) (value "Shift") (footprint "Keyboard:MXOnly-2.75U-Hotswap")
+      (reference "SW2085") (unit 1) (value "Shift") (footprint "Keyboard:MXOnly-2.75U-Hotswap")
     )
     (path "/31bb8932-832f-42ce-a5dc-7daa763a98f8/2ed8cae0-aa31-46bf-87bc-daaad034c1c8"
-      (reference "K_86") (unit 1) (value "Up") (footprint "Keyboard:MXOnly-1U-Hotswap")
+      (reference "SW2086") (unit 1) (value "Up") (footprint "Keyboard:MXOnly-1U-Hotswap")
     )
     (path "/31bb8932-832f-42ce-a5dc-7daa763a98f8/696b601a-b5e7-4c79-8036-b5bf7138cf69"
-      (reference "K_87") (unit 1) (value "1") (footprint "Keyboard:MXOnly-1U-Hotswap")
+      (reference "SW2087") (unit 1) (value "1") (footprint "Keyboard:MXOnly-1U-Hotswap")
     )
     (path "/31bb8932-832f-42ce-a5dc-7daa763a98f8/cb903216-ef0a-471c-8dae-9e1e5b42e6c1"
-      (reference "K_88") (unit 1) (value "2") (footprint "Keyboard:MXOnly-1U-Hotswap")
+      (reference "SW2088") (unit 1) (value "2") (footprint "Keyboard:MXOnly-1U-Hotswap")
     )
     (path "/31bb8932-832f-42ce-a5dc-7daa763a98f8/7b942894-46ff-4bff-8689-15a35cead72a"
-      (reference "K_89") (unit 1) (value "3") (footprint "Keyboard:MXOnly-1U-Hotswap")
+      (reference "SW2089") (unit 1) (value "3") (footprint "Keyboard:MXOnly-1U-Hotswap")
     )
     (path "/31bb8932-832f-42ce-a5dc-7daa763a98f8/1702aaa6-eee7-4a45-8d20-c79eb0c9cc03"
-      (reference "K_90") (unit 1) (value "Enter") (footprint "Keyboard:MXOnly-2U-Hotswap")
+      (reference "SW2090") (unit 1) (value "Enter") (footprint "Keyboard:MXOnly-2U-Hotswap")
     )
     (path "/31bb8932-832f-42ce-a5dc-7daa763a98f8/272464d3-8d52-4dc4-ba19-b1ccc0dc3f59"
-      (reference "K_91") (unit 1) (value "LCtrl") (footprint "Keyboard:MXOnly-1.25U-Hotswap")
+      (reference "SW2091") (unit 1) (value "LCtrl") (footprint "Keyboard:MXOnly-1.25U-Hotswap")
     )
     (path "/31bb8932-832f-42ce-a5dc-7daa763a98f8/8fae8318-a36f-48a4-86a4-d34933b25193"
-      (reference "K_92") (unit 1) (value "Super") (footprint "Keyboard:MXOnly-1.25U-Hotswap")
+      (reference "SW2092") (unit 1) (value "Super") (footprint "Keyboard:MXOnly-1.25U-Hotswap")
     )
     (path "/31bb8932-832f-42ce-a5dc-7daa763a98f8/a0484251-1861-4c52-b9e7-2c6763aca9bb"
-      (reference "K_93") (unit 1) (value "LAlt") (footprint "Keyboard:MXOnly-1.25U-Hotswap")
+      (reference "SW2093") (unit 1) (value "LAlt") (footprint "Keyboard:MXOnly-1.25U-Hotswap")
     )
     (path "/31bb8932-832f-42ce-a5dc-7daa763a98f8/f45bffa4-f65c-4b1f-aef4-13c849197d4a"
-      (reference "K_94") (unit 1) (value "Space") (footprint "Keyboard:MXOnly-6.25U-Hotswap")
+      (reference "SW2094") (unit 1) (value "Space") (footprint "Keyboard:MXOnly-6.25U-Hotswap")
     )
     (path "/31bb8932-832f-42ce-a5dc-7daa763a98f8/b125e674-900b-4cb0-840c-41fa7ea197e0"
-      (reference "K_95") (unit 1) (value "RAlt") (footprint "Keyboard:MXOnly-1.25U-Hotswap")
+      (reference "SW2095") (unit 1) (value "RAlt") (footprint "Keyboard:MXOnly-1.25U-Hotswap")
     )
     (path "/31bb8932-832f-42ce-a5dc-7daa763a98f8/9416aed4-dbb4-46f3-bfd7-a19d578cc1c0"
-      (reference "K_96") (unit 1) (value "Fn") (footprint "Keyboard:MXOnly-1.25U-Hotswap")
+      (reference "SW2096") (unit 1) (value "Fn") (footprint "Keyboard:MXOnly-1.25U-Hotswap")
     )
     (path "/31bb8932-832f-42ce-a5dc-7daa763a98f8/b6e7d05a-e4ff-4993-9f36-3d4b58fe785b"
-      (reference "K_97") (unit 1) (value "RClick") (footprint "Keyboard:MXOnly-1.25U-Hotswap")
+      (reference "SW2097") (unit 1) (value "RClick") (footprint "Keyboard:MXOnly-1.25U-Hotswap")
     )
     (path "/31bb8932-832f-42ce-a5dc-7daa763a98f8/995049bb-c0e6-43cb-8e77-5450a5e3966c"
-      (reference "K_98") (unit 1) (value "RCtrl") (footprint "Keyboard:MXOnly-1.25U-Hotswap")
+      (reference "SW2098") (unit 1) (value "RCtrl") (footprint "Keyboard:MXOnly-1.25U-Hotswap")
     )
     (path "/31bb8932-832f-42ce-a5dc-7daa763a98f8/38c38d53-50ab-4204-93e2-46c3093c5a76"
-      (reference "K_99") (unit 1) (value "Left") (footprint "Keyboard:MXOnly-1U-Hotswap")
+      (reference "SW2099") (unit 1) (value "Left") (footprint "Keyboard:MXOnly-1U-Hotswap")
     )
     (path "/31bb8932-832f-42ce-a5dc-7daa763a98f8/2ae86420-fb75-41c3-be6b-4da695d96b4c"
-      (reference "K_100") (unit 1) (value "Down") (footprint "Keyboard:MXOnly-1U-Hotswap")
+      (reference "SW2100") (unit 1) (value "Down") (footprint "Keyboard:MXOnly-1U-Hotswap")
     )
     (path "/31bb8932-832f-42ce-a5dc-7daa763a98f8/46726f37-9678-495d-8561-8ff8dedf8031"
-      (reference "K_101") (unit 1) (value "Right") (footprint "Keyboard:MXOnly-1U-Hotswap")
+      (reference "SW2101") (unit 1) (value "Right") (footprint "Keyboard:MXOnly-1U-Hotswap")
     )
     (path "/31bb8932-832f-42ce-a5dc-7daa763a98f8/51a0914c-b9f1-4751-a5b6-912d7dfd34f0"
-      (reference "K_102") (unit 1) (value "0") (footprint "Keyboard:MXOnly-2U-Hotswap")
+      (reference "SW2102") (unit 1) (value "0") (footprint "Keyboard:MXOnly-2U-Hotswap")
     )
     (path "/31bb8932-832f-42ce-a5dc-7daa763a98f8/5bd7427f-d853-4930-940a-b3c34ab9cf3a"
-      (reference "K_103") (unit 1) (value ".") (footprint "Keyboard:MXOnly-1U-Hotswap")
+      (reference "SW2103") (unit 1) (value ".") (footprint "Keyboard:MXOnly-1U-Hotswap")
     )
     (path "/e2f175a9-1dfb-4d7e-add4-3a8c6ce4b03e"
       (reference "R101") (unit 1) (value "4.7k") (footprint "Resistor_SMD:R_0603_1608Metric")
