@@ -14,6 +14,7 @@
     (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
     (tstamp 6ee1e540-fb6a-455a-9d4f-d1f7fd1a740d)
   )
+  (fp_circle (center -0.8 6.6) (end -0.658579 6.6) (layer "F.SilkS") (width 0.12) (fill solid) (tstamp f5feda60-6297-4b06-bd61-adfe1d198012))
   (fp_line (start 7 7) (end 7 5) (layer "Dwgs.User") (width 0.15) (tstamp 1911f273-18b2-4ac6-a61a-855335c60723))
   (fp_line (start 5 -7) (end 7 -7) (layer "Dwgs.User") (width 0.15) (tstamp 31a08118-05d3-44f8-b9c6-471788fb8f42))
   (fp_line (start 59.53125 9.525) (end -59.53125 9.525) (layer "Dwgs.User") (width 0.15) (tstamp 3f067973-7106-4145-b88d-b9c124bfd1a3))
@@ -47,6 +48,16 @@
   (pad "" np_thru_hole circle (at 49.9999 8.255) (size 3.9878 3.9878) (drill 3.9878) (layers *.Cu *.Mask) (tstamp f9c0e4a5-cf86-4e04-81d7-43ca83baafef))
   (pad "1" smd rect (at -7.085 -2.54) (size 2.55 2.5) (layers "B.Cu" "B.Paste" "B.Mask") (tstamp fc201fe8-ce49-484e-96cb-7db7bc2c709c))
   (pad "2" smd rect (at 5.842 -5.08) (size 2.55 2.5) (layers "B.Cu" "B.Paste" "B.Mask") (tstamp 682403ab-5291-4071-9675-2eda05bd63e3))
-  (pad "3" thru_hole circle (at -1.27 5.08) (size 1.905 1.905) (drill 1.04) (layers *.Cu *.Mask) (tstamp f56eb926-8833-44bf-b138-76f4a435675f))
-  (pad "4" thru_hole rect (at 1.27 5.08) (size 1.905 1.905) (drill 1.04) (layers *.Cu *.Mask) (tstamp bd58a12c-e969-49fe-86b9-ce3424a39e82))
+  (pad "3" smd rect (at -0.8 5.5 90) (size 0.5 0.8) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp a0f81263-cda7-45ee-9f88-288cf790314e))
+  (pad "4" smd rect (at -0.8 4.6 90) (size 0.5 0.8) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 11ba656a-5384-4f3e-86bc-9fac2a234d11))
+  (pad "5" smd rect (at 0.8 4.6 90) (size 0.5 0.8) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp f18151d7-f883-4fb9-b9e7-ae8d0c120986))
+  (pad "6" smd rect (at 0.8 5.5 90) (size 0.5 0.8) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 52571b9e-a1b8-4e2d-80d8-4fa8fbf32b0e))
+  (group "" (id 1427bafa-62ba-41ed-bb2c-b2eff3273bf3)
+    (members
+      11ba656a-5384-4f3e-86bc-9fac2a234d11
+      52571b9e-a1b8-4e2d-80d8-4fa8fbf32b0e
+      a0f81263-cda7-45ee-9f88-288cf790314e
+      f18151d7-f883-4fb9-b9e7-ae8d0c120986
+    )
+  )
 )
